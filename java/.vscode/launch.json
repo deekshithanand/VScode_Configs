@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddNumbers",
+            "request": "launch",
+            "mainClass": "AddNumbers",
+            "projectName": "Javaexps_28f2ca33"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Javaexps_28f2ca33"
+        }
+    ]
+}
